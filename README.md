@@ -1,6 +1,6 @@
 # fetch-x402
 
-> wefetch developed gtinfetch, the GTIN record for AI agents. x402 on every wefetch hub: a buying agent asks, pays inside the call and is served, with a receipt on chain. USDC and Open USD, 20 countries, one rail.
+> wefetch developed gtinfetch, the GTIN record for AI agents. x402 on every wefetch hub: a buying agent asks, pays inside the call and is served, with a receipt on chain. USDC and Open USD, one rail.
 
 Built and run by [wefetch](https://wefetch.ai/). This is the public connect kit, MIT. It holds no deploy code and no keys.
 
